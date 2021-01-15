@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>All HTML5 tags</title>
+	<link rel="icon" type="image/png" href="rocket.png">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+	<!--heading-->
+	<h1>This page contains almost all html5 tags</h1>
+	<!--divs-->
+	<div>
+		<!--paragraph-->
+	<p>HTML5 is amazing!!</p>
+	</div>
+	<!--ordered lists-->
+	<ol start="2" reversed>
+		<li>First element of list</li>
+		<li value="1">Second element of list</li>
+		<li>Third element of list</li>
+	</ol>
+	<!--line break-->
+	<br>
+	<!--unordered list-->
+	<ul>
+		<li>First element of list</li>
+		<li>Second element of list</li>
+		<li>Third element of list</li>
+	</ul>
+	<br>
+	<!--image-->
+	<img src="https://www.bbvaapimarket.com/wp-content/uploads/2014/09/115a8_html_strong.jpg" alt="HTML5" width="20%">
+	<br>
+	<!--font-awesome-->
+	<i class="fa fa-html5" style="font-size: 50px; color: green"></i>
+	<br>
+	<!--anchor links-->
+	<a href="https://www.w3schools.com/html/" target="_blank">w3schools</a>
+	<br>
+	<hr>
+	<!--video(audio is same)-->
+	<video src="coding.WEBM #t=6" controls>html5 coding essentials</video>
+	<!--table-->
+	<table border="1" >
+		<tr><th>Name</th><th>Course</th></tr>
+		<tr><td>Shikha</td><td colspan="2">HTML5</td><td>CSS</td></tr>
+		<tr><td>Gunjan</td><td>CSS</td></tr>
+	</table>
+	<br>
+	<hr>
+	<address>#123 Capetown</address>
+	<br>
+	<details><summary>About <abbr title="Hypertext Markup Language">HTML</abbr></summary>HTML means Hypertext Markup Language</details>
+	<br>
+	<time>6:00 clock</time>
+	<br>
+	<code>include</code>
+	<br>
+	<p>H <sub>2</sub>O</p>
+	<p>x <sup>2</sup></p>
+</body>
+</html>
